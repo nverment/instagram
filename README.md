@@ -1,2 +1,4 @@
-# instagram
-small instagram information gathering tools in python
+# instagram tools
+
+**network.py**
+returns the mutual followers of two profiles - works only for public profiles or profiles you follow (needs login).
